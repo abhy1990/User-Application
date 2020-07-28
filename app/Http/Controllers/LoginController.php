@@ -48,7 +48,7 @@ class LoginController extends Controller
             
         }
         else{
-            die("s");
+           
             session()->flash('message', 'Please Check Credentials');
             session()->flash('alert-class', 'alert-danger');
             return Redirect::back();
