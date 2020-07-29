@@ -3,3 +3,5 @@ Here I have used elequent model approach rather than repository pattern.
 I have attached the DB also with in the database folder with the name as Machinetest.sql.
  
 
+Admin Creds: admin@mailinator.com
+password:admin123
